@@ -1,1 +1,2 @@
-Doing x makes me happy
+Doing things make me happy
+These are nicole_branch2 edits
